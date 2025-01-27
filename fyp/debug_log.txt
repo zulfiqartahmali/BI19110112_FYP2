@@ -1,8 +1,0 @@
-Array
-(
-    [assetId] => 5620
-    [timeCollected] => 2025-01-19T21:11
-    [timeToReturn] => 2025-01-28T21:11
-    [location] => nilai
-    [quantity] => 10
-)
